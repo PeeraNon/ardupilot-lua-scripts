@@ -25,4 +25,4 @@ function update()
     return update, 1000
 end
 
-return update, 1000
+return update()
